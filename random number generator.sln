@@ -12,7 +12,7 @@ int main()
     // seed the random number generator
     srand(time(0));
 
-    // generate a random number between 1 and 10
+    // generate a random number between 1 and 1000
     
 
     int randomNumber = rand() % 1000 + 1;
